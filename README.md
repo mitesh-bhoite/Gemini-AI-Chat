@@ -31,5 +31,4 @@
 Feel free to contribute by submitting pull requests or reporting issues. 
 
 ---
-**Author:** Mitesh Bhoite
 Made with ❤️ by Mitesh Bhoite
