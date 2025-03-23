@@ -19,7 +19,7 @@
 1. Open the chatbot in a browser.
 2. Type a message in the input box and hit send.
 3. The chatbot will respond with a predefined reply.
-4. Enjoy interacting with Gemini AI Chat
+4. Enjoy interacting with Gemini AI Chat!!
 
 ## Future Enhancements
 - Integrate AI-powered response generation
